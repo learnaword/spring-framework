@@ -23,7 +23,7 @@ import org.springframework.core.NestedRuntimeException;
  * because of misconfiguration or unexpected runtime issues.
  *
  * @author Juergen Hoeller
- * @since 2.0
+ * @since 2.0111git
  */
 @SuppressWarnings("serial")
 public class AopInvocationException extends NestedRuntimeException {
